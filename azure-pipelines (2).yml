@@ -9,7 +9,7 @@ variables:
   azureSubscription: '75d2ca49-96b6-4056-b1db-e70f0fb3deaa'
 
   # Web app name
-  webAppName: 'webs-test'
+  webAppName: 'web-api-jagslab'
 
   # Working Directory
   workingDirectory: ''
